@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @BenAuerDev
+- from 🇦🇹
+- living in 🇳🇱
 - 👀 I’m interested in Code, Cooking and Coffee (Hobby Barista Stuff...)
 
 
