@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @BenAuerDev
 - from 🇦🇹
-- living in 🇳🇱 (Alstjeblieft)
+- living in Berlin 🇩🇪 
 
+I love everything open source! Try to contribute once in a while.
 
-![favicon-32x32](https://github.com/BenAuerDev/BenAuerDev/assets/136239531/859f23d0-1235-490e-a776-e0456d4d580e) I'm building [Flashlist](https://github.com/Flashlist/flashlist) an open-source app, allowing users to share lists with other users in real-time. 
+I helped build [Flites](https://github.com/marqably/flites) a sprite generator built with Flutter 
 
 
 
